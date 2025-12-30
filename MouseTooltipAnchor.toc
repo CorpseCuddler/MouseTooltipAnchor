@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Mouse Tooltip Anchor
+## Notes: Forces tooltips to anchor to the mouse with showing on top.
+## Author: CorpseCuddler
+## Version: 1.0
+
+MouseTooltipAnchor.lua
